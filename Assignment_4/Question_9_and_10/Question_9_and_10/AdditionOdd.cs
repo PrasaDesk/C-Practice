@@ -19,7 +19,7 @@ namespace Question_9_and_10
             iNo = no;
         }
 
-        public void OddSum()
+        public int OddSum()
         {
             while (iNo != 0)
             {
@@ -29,6 +29,7 @@ namespace Question_9_and_10
                 }
                 iNo = iNo / 10;
             }
+            return iSum;
         }
 
         public void display()

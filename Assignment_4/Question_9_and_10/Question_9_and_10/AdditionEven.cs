@@ -19,7 +19,7 @@ namespace Question_9_and_10
             iNo = no;
         }
 
-        public void EvenSum()
+        public int EvenSum()
         {
             while (iNo != 0)
             {
@@ -29,6 +29,7 @@ namespace Question_9_and_10
                 }
                 iNo = iNo / 10;
             }
+            return iSum;
         }
 
         public void display()
