@@ -1,0 +1,7 @@
+C:\Users\Prasadesk\Desktop\C#\Assignment_3\Question_3\Question_3\obj\Debug\Question_3.csprojAssemblyReference.cache
+C:\Users\Prasadesk\Desktop\C#\Assignment_3\Question_3\Question_3\obj\Debug\Question_3.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\C#\Assignment_3\Question_3\Question_3\bin\Debug\Question_3.exe.config
+C:\Users\Prasadesk\Desktop\C#\Assignment_3\Question_3\Question_3\bin\Debug\Question_3.exe
+C:\Users\Prasadesk\Desktop\C#\Assignment_3\Question_3\Question_3\bin\Debug\Question_3.pdb
+C:\Users\Prasadesk\Desktop\C#\Assignment_3\Question_3\Question_3\obj\Debug\Question_3.exe
+C:\Users\Prasadesk\Desktop\C#\Assignment_3\Question_3\Question_3\obj\Debug\Question_3.pdb

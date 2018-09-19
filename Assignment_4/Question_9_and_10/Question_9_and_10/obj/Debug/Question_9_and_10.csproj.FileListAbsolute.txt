@@ -1,0 +1,6 @@
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_9_and_10\Question_9_and_10\bin\Debug\Question_9_and_10.exe.config
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_9_and_10\Question_9_and_10\bin\Debug\Question_9_and_10.exe
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_9_and_10\Question_9_and_10\bin\Debug\Question_9_and_10.pdb
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_9_and_10\Question_9_and_10\obj\Debug\Question_9_and_10.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_9_and_10\Question_9_and_10\obj\Debug\Question_9_and_10.exe
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_9_and_10\Question_9_and_10\obj\Debug\Question_9_and_10.pdb

@@ -1,0 +1,6 @@
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_1\Question_1\bin\Debug\Question_1.exe.config
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_1\Question_1\bin\Debug\Question_1.exe
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_1\Question_1\bin\Debug\Question_1.pdb
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_1\Question_1\obj\Debug\Question_1.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_1\Question_1\obj\Debug\Question_1.exe
+C:\Users\Prasadesk\Desktop\C#\Assignment_4\Question_1\Question_1\obj\Debug\Question_1.pdb
