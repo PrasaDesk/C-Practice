@@ -24,21 +24,20 @@ namespace Question_9_and_10
 
         public void DiffSum()
         {
-            int ESum = 0, OSum = 0;
-            ESum = ae.EvenSum();
-            OSum = ao.OddSum();
-            iDiff = ESum - OSum;
+            ae.EvenSum();
+            ao.OddSum();
+            iDiff = ae.iSum - ao.iSum;
         }
 
         public void display()
         {
-            Console.WriteLine("\n\nInsdie Diiference Class");
+            Console.WriteLine("\n\nInside Diiference Class");
             if(iDiff < 0)
             {
                 iDiff = -iDiff;
             }
-            Console.WriteLine("Difference of Addition of Even Digits is : " + ae.EvenSum());
-            Console.WriteLine("Difference of Addition of Odd Digits is : " + ao.OddSum());
+            Console.WriteLine("Difference of Addition of Even Digits is : " + ae.iSum);
+            Console.WriteLine("Difference of Addition of Odd Digits is : " + ao.iSum);
             Console.WriteLine("Difference of Addition of Even And Odd Digits is : " + iDiff);
         }
     }
