@@ -11,11 +11,13 @@ namespace Question_4
         static void Main(string[] args)
         {
             int iNo;
+            Console.Write("Enter the Number :");
             iNo = Convert.ToInt32(Console.ReadLine());
 
             WordNumber wn = new WordNumber(iNo);
+            Console.Write("Convert into Word : ");
             wn.displayNumToword();
-
+            Console.WriteLine(" ");
         }
     }
 }

@@ -19,15 +19,14 @@ namespace Question_4
             }
             iNo = no;
 
-            str = new String[10];
-            str = { "Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"};
+            str = new string[10] { "Zero", "One","Two","Three","Four","Five","Six","Seven","Eight","Nine"};
         }
             
         public void displayNumToword()
         {
             while(iNo != 0)
             {
-                Console.Write(str[iNo % 10]);
+                Console.Write(str[iNo % 10] + " ");
                 iNo = iNo / 10;
             }
         }
