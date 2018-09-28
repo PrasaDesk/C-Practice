@@ -18,7 +18,7 @@ namespace AbstractNumTemplates
             {
                 iNo = -iNo;
             }
-          
+           
         }
 
         public override void Display()

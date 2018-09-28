@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NuberActivity.cs" />
+    <Compile Include="NumberActivity.cs" />
     <Compile Include="NumOperation.cs" />
     <Compile Include="NumTemplates.cs" />
     <Compile Include="Program.cs" />
