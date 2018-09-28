@@ -1,0 +1,7 @@
+C:\Users\Prasadesk\source\repos\AbstractNumTemplates\AbstractNumTemplates\bin\Debug\AbstractNumTemplates.exe.config
+C:\Users\Prasadesk\source\repos\AbstractNumTemplates\AbstractNumTemplates\bin\Debug\AbstractNumTemplates.exe
+C:\Users\Prasadesk\source\repos\AbstractNumTemplates\AbstractNumTemplates\bin\Debug\AbstractNumTemplates.pdb
+C:\Users\Prasadesk\source\repos\AbstractNumTemplates\AbstractNumTemplates\obj\Debug\AbstractNumTemplates.csprojAssemblyReference.cache
+C:\Users\Prasadesk\source\repos\AbstractNumTemplates\AbstractNumTemplates\obj\Debug\AbstractNumTemplates.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\source\repos\AbstractNumTemplates\AbstractNumTemplates\obj\Debug\AbstractNumTemplates.exe
+C:\Users\Prasadesk\source\repos\AbstractNumTemplates\AbstractNumTemplates\obj\Debug\AbstractNumTemplates.pdb

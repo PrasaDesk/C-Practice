@@ -1,0 +1,7 @@
+C:\Users\Prasadesk\source\repos\Assignment3Ques!\Assignment3Ques!\bin\Debug\Assignment3Ques!.exe.config
+C:\Users\Prasadesk\source\repos\Assignment3Ques!\Assignment3Ques!\bin\Debug\Assignment3Ques!.exe
+C:\Users\Prasadesk\source\repos\Assignment3Ques!\Assignment3Ques!\bin\Debug\Assignment3Ques!.pdb
+C:\Users\Prasadesk\source\repos\Assignment3Ques!\Assignment3Ques!\obj\Debug\Assignment3Ques!.csprojAssemblyReference.cache
+C:\Users\Prasadesk\source\repos\Assignment3Ques!\Assignment3Ques!\obj\Debug\Assignment3Ques!.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\source\repos\Assignment3Ques!\Assignment3Ques!\obj\Debug\Assignment3Ques!.exe
+C:\Users\Prasadesk\source\repos\Assignment3Ques!\Assignment3Ques!\obj\Debug\Assignment3Ques!.pdb
