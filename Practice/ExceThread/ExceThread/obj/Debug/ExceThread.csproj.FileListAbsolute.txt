@@ -1,0 +1,7 @@
+C:\Users\Prasadesk\source\repos\ExceThread\ExceThread\obj\Debug\ExceThread.csprojAssemblyReference.cache
+C:\Users\Prasadesk\source\repos\ExceThread\ExceThread\obj\Debug\ExceThread.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\source\repos\ExceThread\ExceThread\bin\Debug\ExceThread.exe.config
+C:\Users\Prasadesk\source\repos\ExceThread\ExceThread\bin\Debug\ExceThread.exe
+C:\Users\Prasadesk\source\repos\ExceThread\ExceThread\bin\Debug\ExceThread.pdb
+C:\Users\Prasadesk\source\repos\ExceThread\ExceThread\obj\Debug\ExceThread.exe
+C:\Users\Prasadesk\source\repos\ExceThread\ExceThread\obj\Debug\ExceThread.pdb
