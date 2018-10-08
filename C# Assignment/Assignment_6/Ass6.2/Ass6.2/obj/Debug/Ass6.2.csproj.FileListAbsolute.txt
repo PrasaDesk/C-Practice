@@ -1,0 +1,14 @@
+C:\Users\care\source\repos\c#\Ass6.2\Ass6.2\bin\Debug\Ass6.2.exe.config
+C:\Users\care\source\repos\c#\Ass6.2\Ass6.2\bin\Debug\Ass6.2.exe
+C:\Users\care\source\repos\c#\Ass6.2\Ass6.2\bin\Debug\Ass6.2.pdb
+C:\Users\care\source\repos\c#\Ass6.2\Ass6.2\obj\Debug\Ass6.2.csprojResolveAssemblyReference.cache
+C:\Users\care\source\repos\c#\Ass6.2\Ass6.2\obj\Debug\Ass6.2.csproj.CoreCompileInputs.cache
+C:\Users\care\source\repos\c#\Ass6.2\Ass6.2\obj\Debug\Ass6.2.exe
+C:\Users\care\source\repos\c#\Ass6.2\Ass6.2\obj\Debug\Ass6.2.pdb
+C:\Users\Prasadesk\Desktop\Temp\Ass6.2\Ass6.2\bin\Debug\Ass6.2.exe.config
+C:\Users\Prasadesk\Desktop\Temp\Ass6.2\Ass6.2\bin\Debug\Ass6.2.exe
+C:\Users\Prasadesk\Desktop\Temp\Ass6.2\Ass6.2\bin\Debug\Ass6.2.pdb
+C:\Users\Prasadesk\Desktop\Temp\Ass6.2\Ass6.2\obj\Debug\Ass6.2.csprojAssemblyReference.cache
+C:\Users\Prasadesk\Desktop\Temp\Ass6.2\Ass6.2\obj\Debug\Ass6.2.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\Temp\Ass6.2\Ass6.2\obj\Debug\Ass6.2.exe
+C:\Users\Prasadesk\Desktop\Temp\Ass6.2\Ass6.2\obj\Debug\Ass6.2.pdb

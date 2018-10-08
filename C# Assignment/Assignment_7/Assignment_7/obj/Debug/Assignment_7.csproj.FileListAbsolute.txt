@@ -1,0 +1,14 @@
+c:\users\care\source\repos\c#\Assignment_7\Assignment_7\obj\Debug\Assignment_7.csprojResolveAssemblyReference.cache
+c:\users\care\source\repos\c#\Assignment_7\Assignment_7\obj\Debug\Assignment_7.csproj.CoreCompileInputs.cache
+c:\users\care\source\repos\c#\Assignment_7\Assignment_7\bin\Debug\Assignment_7.exe.config
+c:\users\care\source\repos\c#\Assignment_7\Assignment_7\bin\Debug\Assignment_7.exe
+c:\users\care\source\repos\c#\Assignment_7\Assignment_7\bin\Debug\Assignment_7.pdb
+c:\users\care\source\repos\c#\Assignment_7\Assignment_7\obj\Debug\Assignment_7.exe
+c:\users\care\source\repos\c#\Assignment_7\Assignment_7\obj\Debug\Assignment_7.pdb
+C:\Users\Prasadesk\Desktop\Temp\Assignment_7\Assignment_7\bin\Debug\Assignment_7.exe.config
+C:\Users\Prasadesk\Desktop\Temp\Assignment_7\Assignment_7\bin\Debug\Assignment_7.exe
+C:\Users\Prasadesk\Desktop\Temp\Assignment_7\Assignment_7\bin\Debug\Assignment_7.pdb
+C:\Users\Prasadesk\Desktop\Temp\Assignment_7\Assignment_7\obj\Debug\Assignment_7.csprojAssemblyReference.cache
+C:\Users\Prasadesk\Desktop\Temp\Assignment_7\Assignment_7\obj\Debug\Assignment_7.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\Temp\Assignment_7\Assignment_7\obj\Debug\Assignment_7.exe
+C:\Users\Prasadesk\Desktop\Temp\Assignment_7\Assignment_7\obj\Debug\Assignment_7.pdb
