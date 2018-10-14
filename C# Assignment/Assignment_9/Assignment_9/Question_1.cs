@@ -9,19 +9,12 @@ namespace Assignment_9
 {
     class Question_1
     {
-        public int iStart,iEnd;
-        public Question_1(int val1,int val2)
-        {
-            iStart = val1;
-            iEnd = val2;
-        }
-
-        public void PrintRange()
+        public void PrintRange(int iStart,int iEnd)
         {
             for (int i = iStart; i <= iEnd; i++)
             {
                 Console.WriteLine("Printing Range Elements : {0}", i);
-                Thread.Sleep(500);
+                Thread.Sleep(100);
             }
         }
     }

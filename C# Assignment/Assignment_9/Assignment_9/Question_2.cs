@@ -9,28 +9,21 @@ namespace Assignment_9
 {
     class Question_2
     {
-        public int iStart, iEnd;
-        public Question_2(int val1, int val2)
-        {
-            iStart = val1;
-            iEnd = val2;
-        }
-
-        public void PrintForward()
+        public void PrintForward(int iStart,int iEnd)
         {
             for (int i = iStart; i <= iEnd; i++)
             {
                 Console.WriteLine("Forward print : {0}", i);
-                Thread.Sleep(500);
+                
             }
         }
 
-        public void PrintBackward()
+        public void PrintBackward(int iStart, int iEnd)
         {
             for (int i = iEnd; i >= iStart; i--)
             {
                 Console.WriteLine("Backward print : {0}", i);
-                Thread.Sleep(500);
+                
             }
         }
     }
