@@ -52,7 +52,7 @@ namespace Assignment_12_que_2
             DateTime CurrentDate = DateTime.Now;
            
             TimeSpan ts = CurrentDate - Dob;
-           
+            
             DateTime Age = DateTime.MinValue.AddDays(ts.Days);
             //Console.WriteLine(Age);
 
