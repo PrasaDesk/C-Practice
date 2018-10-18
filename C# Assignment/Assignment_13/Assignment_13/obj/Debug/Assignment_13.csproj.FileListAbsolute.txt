@@ -1,0 +1,7 @@
+C:\Users\Prasadesk\source\repos\Assignment_13\Assignment_13\bin\Debug\Assignment_13.exe.config
+C:\Users\Prasadesk\source\repos\Assignment_13\Assignment_13\bin\Debug\Assignment_13.exe
+C:\Users\Prasadesk\source\repos\Assignment_13\Assignment_13\bin\Debug\Assignment_13.pdb
+C:\Users\Prasadesk\source\repos\Assignment_13\Assignment_13\obj\Debug\Assignment_13.csprojAssemblyReference.cache
+C:\Users\Prasadesk\source\repos\Assignment_13\Assignment_13\obj\Debug\Assignment_13.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\source\repos\Assignment_13\Assignment_13\obj\Debug\Assignment_13.exe
+C:\Users\Prasadesk\source\repos\Assignment_13\Assignment_13\obj\Debug\Assignment_13.pdb

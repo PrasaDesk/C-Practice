@@ -1,0 +1,7 @@
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_12_que_2\Assignment_12_que_2\bin\Debug\Assignment_12_que_2.exe.config
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_12_que_2\Assignment_12_que_2\bin\Debug\Assignment_12_que_2.exe
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_12_que_2\Assignment_12_que_2\bin\Debug\Assignment_12_que_2.pdb
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_12_que_2\Assignment_12_que_2\obj\Debug\Assignment_12_que_2And3.csprojAssemblyReference.cache
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_12_que_2\Assignment_12_que_2\obj\Debug\Assignment_12_que_2And3.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_12_que_2\Assignment_12_que_2\obj\Debug\Assignment_12_que_2.exe
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_12_que_2\Assignment_12_que_2\obj\Debug\Assignment_12_que_2.pdb

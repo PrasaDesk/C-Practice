@@ -1,0 +1,7 @@
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_10\Assignment_10\bin\Debug\Assignment_10.exe.config
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_10\Assignment_10\bin\Debug\Assignment_10.exe
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_10\Assignment_10\bin\Debug\Assignment_10.pdb
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_10\Assignment_10\obj\Debug\Assignment_10.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_10\Assignment_10\obj\Debug\Assignment_10.exe
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_10\Assignment_10\obj\Debug\Assignment_10.pdb
+C:\Users\Prasadesk\Desktop\C#\C# Assignment\Assignment_10\Assignment_10\obj\Debug\Assignment_10.csprojAssemblyReference.cache
