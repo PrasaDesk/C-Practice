@@ -1,0 +1,37 @@
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe.config
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csprojAssemblyReference.cache
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\App.g.cs
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.cache
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.lref
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.baml
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.g.resources
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous_Calculator.Properties.Resources.resources
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.GenerateResource.cache
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.exe
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.pdb
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.pdb
+C:\Users\Prasadesk\source\repos\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.CopyComplete
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe.config
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.pdb
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\ArithmaticOp.dll
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\BitMask.dll
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\BitwiseOp.dll
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\HistoryIO.dll
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\bin\Debug\NumberSystemLable.dll
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csprojAssemblyReference.cache
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\App.g.cs
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.cache
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.lref
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.baml
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.g.resources
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous_Calculator.Properties.Resources.resources
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.GenerateResource.cache
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.CopyComplete
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.exe
+C:\Users\Prasadesk\Desktop\C#\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.pdb
